@@ -1,0 +1,1 @@
+import { Textarea } from '@chakra-ui/react';  // Asegúrate de tener instalada la librería Chakra UI
